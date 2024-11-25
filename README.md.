@@ -1,0 +1,7 @@
+Online Voting System - FAQ Section
+Description
+This project is an Online Voting System that includes a FAQ section. It allows users to view questions and answers about the voting process. The interface is designed to be user-friendly, with expandable questions for easy navigation.
+Technologies Used
+- **HTML**: Structure of the web pages.
+- **CSS**: Styling and layout.
+- **JavaScript**: Functionality for expanding and collapsing questions.
